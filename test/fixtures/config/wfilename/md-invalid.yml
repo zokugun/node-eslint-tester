@@ -1,0 +1,8 @@
+filename: hello.md
+input: |
+  hello
+
+  ```
+  console.log('hello');
+  ```
+error: missingLanguage

@@ -1,0 +1,8 @@
+rule: fenced-code-language
+input: |
+  hello
+
+  ```
+  console.log('hello');
+  ```
+error: missingLanguage

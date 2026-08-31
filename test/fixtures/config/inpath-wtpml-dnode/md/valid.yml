@@ -1,0 +1,6 @@
+input: |
+  hello
+
+  ```typescript
+  console.log('hello');
+  ```

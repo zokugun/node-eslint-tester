@@ -1,0 +1,7 @@
+entry: index.ts
+format:
+  - cjs
+  - esm
+outDir: lib
+tsModule:
+  cjs: node16

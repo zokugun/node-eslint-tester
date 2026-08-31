@@ -1,0 +1,7 @@
+rule: fenced-code-language
+input: |
+  hello
+
+  ```typescript
+  console.log('hello');
+  ```

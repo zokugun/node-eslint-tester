@@ -1,0 +1,7 @@
+input: |
+  hello
+
+  ```
+  console.log('hello');
+  ```
+error: missingLanguage
